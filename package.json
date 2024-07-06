@@ -1,6 +1,7 @@
 {
   "name": "vite-plugin-preserve-files",
   "version": "0.1.0",
+  "type": "module",
   "description": "A Vite plugin to preserve specified files to the build directory",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
